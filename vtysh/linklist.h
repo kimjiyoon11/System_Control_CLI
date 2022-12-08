@@ -20,8 +20,8 @@
  */
 
 #ifndef _ZEBRA_LINKLIST_H
-#define _ZEBRA_LINKLIST_H
-
+#define _ZEBRA_LINKLIST_H 
+  
 typedef struct list *list;
 typedef struct listnode *listnode;
 
