@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/System_Control_CLI",
-      "program": "d:/System_Control_CLI/build/Debug/outDebug",
+      "cwd": "d:/System_Control_CLI/vtysh",
+      "program": "d:/System_Control_CLI/vtysh/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
